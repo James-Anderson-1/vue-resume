@@ -1,21 +1,21 @@
 {
   "profile": {
-    "name": "Bill Gates",
-    "job": "Co-chair, Bill & Melinda Gates Foundation",
-    "avatar": "img/profile/me.jpg",
-    "aboutMe": "Co-presidente da Bill & Melinda Gates Foundation. Fundador da energia inovadora. Co-fundador da Microsoft. Leitor voraz. Viajante ávido. Blogueiro ativo.",
+    "name": "James Anderson",
+    "job": "Physisct, Development Team @ Chrysos Corporation",
+    "avatar": "img/profile/head-shot-2.png",
+    "aboutMe": "Developer with a background in physics, mathematics and software development. Priorities client needs and AGILE development approach to determine optimal solutions.",
     "socialNetwork": [
       {
-        "name": "Twitter",
-        "url": "https://twitter.com/billgates"
+        "name": "Chrysos",
+        "url": "https://chrysoscorp.com/"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/williamhgates"
+        "url": "https://www.linkedin.com/in/james-anderson-025a1a197"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/thisisbillgates/"
+        "url": "https://www.instagram.com/ando.42/"
       }
     ]
   },

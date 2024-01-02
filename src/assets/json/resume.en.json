@@ -1,21 +1,21 @@
 {
   "profile": {
-    "name": "Bill Gates",
-    "job": "Co-chair, Bill & Melinda Gates Foundation",
-    "avatar": "img/profile/me.jpg",
-    "aboutMe": "Co-chair of the Bill & Melinda Gates Foundation. Founder of Breakthrough Energy. Co-founder of Microsoft. Voracious reader. Avid traveler. Active blogger.",
+    "name": "James Anderson",
+    "job": "Physisct, Development Team @ Chrysos Corporation",
+    "avatar": "img/profile/head-shot-2.png",
+    "aboutMe": "Developer with a background in physics, mathematics and software development. Priorities client needs and AGILE development approach to determine optimal solutions.",
     "socialNetwork": [
       {
-        "name": "Twitter",
-        "url": "https://twitter.com/billgates"
+        "name": "Chrysos",
+        "url": "https://chrysoscorp.com/"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/williamhgates"
+        "url": "https://www.linkedin.com/in/james-anderson-025a1a197"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/thisisbillgates/"
+        "url": "https://www.instagram.com/ando.42/"
       }
     ]
   },
@@ -28,23 +28,28 @@
   "information": [
     {
       "icon": "EnvelopeIcon",
-      "name": "Mail address",
-      "value": "billgates@microsoft.com"
+      "name": "Chrysos mail address",
+      "value": "james.anderson@chrysoscorp.com"
+    },
+    {
+      "icon": "EnvelopeIcon",
+      "name": "Personal mail address",
+      "value": "anderson.james_@outlook.com"
     },
     {
       "icon": "CakeIcon",
-      "name": "66 Years old",
-      "value": "28 october 1955"
+      "name": "24 Years old",
+      "value": "30 january 1999"
     },
     {
       "icon": "DevicePhoneMobileIcon",
       "name": "Phone Number",
-      "value": "+1 (800) 642 7676"
+      "value": "+61 428 981 999"
     },
     {
       "icon": "ComputerDesktopIcon",
       "name": "Work type",
-      "value": "Remote or Fulltime"
+      "value": "Fulltime - (Deployed in UK)"
     }
   ],
   "skill": [
