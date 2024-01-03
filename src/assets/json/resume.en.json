@@ -6,7 +6,11 @@
     "aboutMe": "Developer with a background in physics, mathematics and software development. Priorities client needs and AGILE development approach to determine optimal solutions.",
     "socialNetwork": [
       {
-        "name": "Chrysos",
+        "name": "github",
+        "url": "https://github.com/James-Anderson-1"
+      },
+      {
+        "name": "chrysos",
         "url": "https://chrysoscorp.com/"
       },
       {
@@ -16,6 +20,10 @@
       {
         "name": "instagram",
         "url": "https://www.instagram.com/ando.42/"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/"
       }
     ]
   },
@@ -70,6 +78,7 @@
     "HTML",
     "VS Code",
     "RPi",
+    "Photon Assay",
     "Nuclear Spectroscopy",
     "Product Design",
     "Distributed Systems"
