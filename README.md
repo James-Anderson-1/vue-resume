@@ -29,6 +29,7 @@ See [Demo](https://vue-resume-six.vercel.app) page.
 | command | What it does? | 
 | ------- | :------------ | 
 | `npm run dev` | Starts the server in dev mode |
+| `npx vite --host "network_ip"` | Start server on network
 | `npm run lint` | Runs ESLint on project |
 | `npm run prettier` | Runs prettier on entire src folder |
 | `npm run prettier:verify` | Runs prettier-check and throws error if fails |

@@ -22,7 +22,7 @@
   "cv": {
     "icon": "DocumentTextIcon",
     "name": "PDF & DOC",
-    "value": "Bill Gates",
+    "value": "James Anderson",
     "url": "https://dl.lanno.dev/share/GppwRUSq0tOPCjWy/files/703b5c3a-ff83-4ce9-8607-fc86d0ac09eb"
   },
   "information": [
@@ -53,81 +53,131 @@
     }
   ],
   "skill": [
-    "C#",
+    "Linux",
+    "Windows",
+    "Git",
+    "Azura",
+    "Python",
+    "PyCharm",
+    "MATLAB",
     "JavaScript",
-    "Angular",
     "Vue",
     "CSS",
     "Tailwindcss",
-    "Dart",
-    "PHP",
     "TypeScript",
-    "Laravel",
-    "Flutter",
-    "AngularJS",
     "Bootstrap",
     "NodeJS",
     "HTML",
-    "jQuery",
-    "Microsoft SQL",
     "VS Code",
-    "IIS",
-    "Git",
-    "Windows",
-    "Internet Explorer",
-    "Insomnia"
+    "RPi",
+    "Nuclear Spectroscopy",
+    "Product Design",
+    "Distributed Systems"
   ],
+
   "language": [
     {
       "name": "English",
-      "code": "pt-BR",
-      "flag": "svg/united-states.svg",
+      "code": "en",
+      "flag": "svg/australia.svg",
       "level": "Native Language"
-    },
-    {
-      "name": "Portuguese",
-      "code": "en-US",
-      "flag": "svg/brazil.svg",
-      "level": "Intermediate"
     }
   ],
   "experience": [
     {
-      "job": "Bill & Melinda Gates Foundation",
-      "company": "Co-chair",
-      "companyLogo": "img/company/co-chair.jpg",
-      "location": "New York",
+      "job": "UK Secondment",
+      "company": "Chrysos",
+      "companyLogo": "img/college/chrysos.png",
+      "location": "Liverpool, ENG, United Kingdom",
       "workType": "Fulltime",
-      "start": "jan 2000",
+      "start": "Dec 2023",
       "end": "Current",
-      "description": "Guided by the belief that every life has equal value, the Bill & Melinda Gates Foundation works to help all people lead healthy, productive lives. In developing countries, it focuses on improving people’s health and giving them the chance to lift themselves out of hunger and extreme poverty. In the United States, it seeks to ensure that all people—especially those with the fewest resources—have access to the opportunities they need to succeed in school and life. Based in Seattle, Washington, the foundation is led by CEO Mark Suzman, under the direction of co-chairs Bill Gates and Melinda French Gates and the board of trustees."
+      "description": "Chrysos is installing our first unit for AHK in Liverpool, England. With the install of MAX-32 we are obligated to provide the newly-developed mini-jar precision assay service to AHK. The physics team need to be onsite during the initial 6 months to ease the roll-out of this bleeding-edge technology, and progress the subsequent projects with AHK."
     },
     {
-      "job": "Breakthrough Energy",
-      "company": "Founder",
-      "companyLogo": "img/company/founder.jpg",
-      "location": "New York",
+      "job": "Front End Development",
+      "company": "self taught",
+      "companyLogo": "img/profile/head-shot-2.png",
+      "location": "GitHub, JavaScript, Vue",
+      "workType": "Background",
+      "start": "Jan 2022",
+      "end": "Dec 2023",
+      "description": "Chrysos is installing our first unit for AHK in Liverpool, England. With the install of MAX-32 we are obligated to provide the newly-developed mini-jar precision assay service to AHK. The physics team need to be onsite during the initial 6 months to ease the roll-out of this bleeding-edge technology, and progress the subsequent projects with AHK."
+    },
+    {
+      "job": "Mini-Jar & Vertical Transmission Feasabilty Study",
+      "company": "Chrysos",
+      "companyLogo": "img/college/chrysos.png",
+      "location": "Bendigo, VIC, Australia",
       "workType": "Fulltime",
-      "start": "jan 2015",
-      "end": "Current",
-      "description": "Breakthrough Energy is dedicated to helping humanity avoid a climate disaster. Through investment vehicles, philanthropic programs, policy advocacy, and other activities, we’re committed to scaling the technologies we need to reach net-zero emissions by 2050."
+      "start": "Jun 2023",
+      "end": "Jul 2023",
+      "description": "Supported new mini-jars and vertical transmission a;lsdjfk aslkdjfa lakdsj alkd a;lkdjf ;laksdj alskdjf slkdjf"
+    },
+    {
+      "job": "Installed MAX13",
+      "company": "Chrysos",
+      "companyLogo": "img/college/chrysos.png",
+      "location": "Ravenswood, QLD, Australia",
+      "workType": "Fulltime",
+      "start": "Sep 2022",
+      "end": "Oct 2022",
+      "description": "Supported new mini-jars and vertical transmission a;lsdjfk aslkdjfa lakdsj alkd a;lkdjf ;laksdj alskdjf slkdjf"
+    },
+    {
+      "job": "Installed MAX10",
+      "company": "Chrysos",
+      "companyLogo": "img/college/chrysos.png",
+      "location": "Kalgoorlie - Boulder, WA, Australia",
+      "workType": "Fulltime",
+      "start": "Sep 2021",
+      "end": "Oct 2021",
+      "description": "Supported new mini-jars and vertical transmission a;lsdjfk aslkdjfa lakdsj alkd a;lkdjf ;laksdj alskdjf slkdjf"
+    },
+    {
+      "job": "Summer Reaserch Scholarship",
+      "company": "Chrysos",
+      "companyLogo": "img/college/adelaide.png",
+      "location": "Adelaide, SA, Australia",
+      "workType": "Fulltime",
+      "start": "Sep 2021",
+      "end": "Oct 2021",
+      "description": "Supported new mini-jars and vertical transmission a;lsdjfk aslkdjfa lakdsj alkd a;lkdjf ;laksdj alskdjf slkdjf"
+    },
+    {
+      "job": "Private Tutor",
+      "company": "self employeed",
+      "companyLogo": "img/profile/head-shot-2.png",
+      "location": "Adelaide, SA, Australia",
+      "workType": "Part Time",
+      "start": "Sep 2019",
+      "end": "Oct 2020",
+      "description": "Supported new mini-jars and vertical transmission a;lsdjfk aslkdjfa lakdsj alkd a;lkdjf ;laksdj alskdjf slkdjf"
     }
   ],
   "education": [
     {
-      "college": "Harvard University",
-      "collegeLogo": "img/college/harvard.jpg",
-      "course": "Mathematics, law and computer science",
-      "start": "1973",
-      "end": "1975",
-      "url": "https://www.xpeducacao.com.br/pos-graduacao/desenvolvimento-front-end?evento=dev_summit"
+      "college": "Chrysos Corporation Paid Internship",
+      "collegeLogo": "img/college/chrysos.png",
+      "course": "Categorisations of Deadtime using High Purity Germanium Detectors and CAEN Multichannel Analysers",
+      "start": "2021",
+      "end": "2021",
+      "url": "https://www.adelaide.edu.au/"
     },
     {
-      "college": "Lakeside School",
-      "collegeLogo": "img/college/lakeside.jpg",
-      "course": "Technologist in Computer Networks, Network Management and Systems Security",
-      "start": "1963",
-      "end": "1973",
+      "college": "The University of Adelaide",
+      "collegeLogo": "img/college/adelaide.png",
+      "course": "Advance Science with majors in Experimental and Theoretical Physics",
+      "start": "2018",
+      "end": "2021",
+      "url": "https://www.adelaide.edu.au/"
+    },
+    {
+      "college": "St Peter’s College",
+      "collegeLogo": "img/college/saints.png",
+      "course": "Graduated with subjects in Mathematics, Physics, Chemistry and Geology. Ranking in the top 97 percentile.",
+      "start": "2015",
+      "end": "2017",
       "url": ""
     }
   ],
@@ -145,13 +195,22 @@
   ],
   "certificate": [
     {
-      "course": "Microsoft Azure Data Engineering Associate (DP-203)",
-      "school": "Coursera",
-      "schoolLogo": "img/college/coursera.jpg",
-      "issueDate": "jan de 2000",
+      "course": "Python Mimo Course",
+      "school": "Mimo",
+      "schoolLogo": "img/college/mimo.png",
+      "issueDate": "3rd Jan 2022",
       "expirationDate": "No expiration date",
-      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
-      "url": "https://www.coursera.org/professional-certificates/microsoft-azure-dp-203-data-engineering"
+      "credentialCode": "no-code",
+      "url": "None"
+    },
+    {
+      "course": "Licence to Operate Ionising Radiation Apparatus",
+      "school": "Enviroment Protection Agency",
+      "schoolLogo": "img/college/epa.png",
+      "issueDate": "3rd May 2023",
+      "expirationDate": "1 year",
+      "credentialCode": "33327",
+      "url": "None"
     },
     {
       "course": "Microsoft 365 Fundamentals",
