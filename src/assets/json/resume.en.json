@@ -244,6 +244,15 @@
   ],
   "project": [
     {
+      "name": "Online Resume",
+      "description": "A resume bulit using the Vue JS Framework. Record major milestone and advertise skill set.",
+      "language": "Vue JS",
+      "image": "img/project/vue.png",
+      "stars": "~",
+      "forks": "~",
+      "url": "https://james-anderson-resume.netlify.app/"
+    },
+    {
       "name": "Movie Index",
       "description": "A web application built using the React JS Framework. Look up movies, artwork and release dates.",
       "language": "React JS",
