@@ -111,20 +111,20 @@
       "workType": "Background",
       "start": "Jan 2022",
       "end": "Dec 2023",
-      "description": "Chrysos is installing our first unit for AHK in Liverpool, England. With the install of MAX-32 we are obligated to provide the newly-developed mini-jar precision assay service to AHK. The physics team need to be onsite during the initial 6 months to ease the roll-out of this bleeding-edge technology, and progress the subsequent projects with AHK."
+      "description": "My self-guided front-end journey involves hands-on exploration of JavaScript, React, and Vue. I experiment with CSS, utilizing Flexbox and Grid layouts, and dive into creative light-dark UI designs. Netlify streamlines hosting, simplifying deployment as I refine my approach to crafting visually engaging interfaces, showcasing a commitment to staying current with evolving web technologies and a curiosity-driven design sensibility."
     },
     {
-      "job": "Mini-Jar & Vertical Transmission Feasabilty Study",
+      "job": "Field Study: Mini-Jar & VTG",
       "company": "Chrysos",
       "companyLogo": "img/college/chrysos.png",
       "location": "Bendigo, VIC, Australia",
       "workType": "Fulltime",
       "start": "Jun 2023",
       "end": "Jul 2023",
-      "description": "Supported new mini-jars and vertical transmission a;lsdjfk aslkdjfa lakdsj alkd a;lkdjf ;laksdj alskdjf slkdjf"
+      "description": "Led a month-long deployment in Bendigo, where I conducted a mini jar photon assay feasibility study and collaborated with Alfred H. Knight to streamline processing for smaller assay samples. Oversaw the successful deployment of the first external vertical transmission gauge (VTG) for photon assay"
     },
     {
-      "job": "Installed MAX13",
+      "job": "Ravenswood Installation",
       "company": "Chrysos",
       "companyLogo": "img/college/chrysos.png",
       "location": "Ravenswood, QLD, Australia",
@@ -134,7 +134,7 @@
       "description": "Supported new mini-jars and vertical transmission a;lsdjfk aslkdjfa lakdsj alkd a;lkdjf ;laksdj alskdjf slkdjf"
     },
     {
-      "job": "Installed MAX10",
+      "job": "Kalgoullie Installation",
       "company": "Chrysos",
       "companyLogo": "img/college/chrysos.png",
       "location": "Kalgoorlie - Boulder, WA, Australia",
@@ -157,6 +157,16 @@
       "job": "Private Tutor",
       "company": "self employeed",
       "companyLogo": "img/profile/head-shot-2.png",
+      "location": "Adelaide, SA, Australia",
+      "workType": "Part Time",
+      "start": "Sep 2019",
+      "end": "Oct 2020",
+      "description": "Supported new mini-jars and vertical transmission a;lsdjfk aslkdjfa lakdsj alkd a;lkdjf ;laksdj alskdjf slkdjf"
+    },
+    {
+      "job": "Warehouse - Fresh Goods",
+      "company": "Rainbow Fresh",
+      "companyLogo": "img/company/rainbow.png",
       "location": "Adelaide, SA, Australia",
       "workType": "Part Time",
       "start": "Sep 2019",
@@ -230,60 +240,6 @@
       "expirationDate": "1 year",
       "credentialCode": "33327",
       "url": "None"
-    },
-    {
-      "course": "Microsoft 365 Fundamentals",
-      "school": "Coursera",
-      "schoolLogo": "img/college/coursera.jpg",
-      "issueDate": "jan de 2001",
-      "expirationDate": "No expiration date",
-      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
-      "url": "https://www.coursera.org/specializations/microsoft-365-fundamentals"
-    },
-    {
-      "course": "Microsoft Azure Fundamentals AZ-900 Exam Prep",
-      "school": "Coursera",
-      "schoolLogo": "img/college/coursera.jpg",
-      "issueDate": "jan de 2002",
-      "expirationDate": "No expiration date",
-      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
-      "url": "https://www.coursera.org/specializations/microsoft-azure-fundamentals-az-900"
-    },
-    {
-      "course": "Microsoft Azure Data Scientist Associate (DP-100)",
-      "school": "Coursera",
-      "schoolLogo": "img/college/coursera.jpg",
-      "issueDate": "jan de 2003",
-      "expirationDate": "No expiration date",
-      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
-      "url": "https://www.coursera.org/professional-certificates/azure-data-scientist"
-    },
-    {
-      "course": "Microsoft Azure AI Fundamentals AI-900 Exam Prep",
-      "school": "Coursera",
-      "schoolLogo": "img/college/coursera.jpg",
-      "issueDate": "jan de 2004",
-      "expirationDate": "No expiration date",
-      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
-      "url": "https://www.coursera.org/specializations/microsoft-azure-ai-900-ai-fundamentals"
-    },
-    {
-      "course": "Microsoft Azure Developer Associate (AZ-204)",
-      "school": "Coursera",
-      "schoolLogo": "img/college/coursera.jpg",
-      "issueDate": "jan de 2005",
-      "expirationDate": "No expiration date",
-      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
-      "url": "https://www.coursera.org/professional-certificates/azure-developer-associate"
-    },
-    {
-      "course": "Work Smarter with Microsoft Excel",
-      "school": "Coursera",
-      "schoolLogo": "img/college/coursera.jpg",
-      "issueDate": "jan de 2006",
-      "expirationDate": "No expiration date",
-      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
-      "url": "https://www.coursera.org/learn/microsoft-excel-work-smarter"
     }
   ],
   "project": [
