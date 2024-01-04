@@ -288,22 +288,13 @@
   ],
   "project": [
     {
-      "name": "Visual Studio Code",
-      "description": "Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.",
-      "language": "Typescript",
-      "image": "img/project/vscode.png",
-      "stars": "+138k",
-      "forks": "23.8k",
-      "url": "https://github.com/microsoft/vscode"
-    },
-    {
-      "name": "TypeScript",
-      "description": "TypeScript is a language for application-scale JavaScript. TypeScript adds optional types to JavaScript that support tools for large-scale JavaScript applications for any browser, for any host, on any OS. TypeScript compiles to readable, standards-based JavaScript.",
-      "language": "Typescript",
-      "image": "img/project/typescript.png",
-      "stars": "+85.3k",
-      "forks": "11.1k",
-      "url": "https://github.com/microsoft/TypeScript"
+      "name": "Movie Index",
+      "description": "A web application built using the React JS Framework. Look up movies, artwork and release dates.",
+      "language": "React JS",
+      "image": "img/project/react.png",
+      "stars": "~",
+      "forks": "~",
+      "url": "https://james-anderson-movie-index.netlify.app/"
     }
   ]
 }
