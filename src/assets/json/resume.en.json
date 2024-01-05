@@ -87,7 +87,7 @@
   "language": [
     {
       "name": "English",
-      "code": "en",
+      "code": "en-US",
       "flag": "svg/australia.svg",
       "level": "Native Language"
     }
