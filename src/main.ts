@@ -8,18 +8,16 @@ import VueEasyLightbox from 'vue-easy-lightbox';
 import './assets/css/main.css';
 
 import enUS from './assets/i18n/en-US.json';
-import ptBR from './assets/i18n/pt-BR.json';
 
 type MessageSchema = typeof enUS;
 
 const i18n = createI18n<[MessageSchema], 'en-US' | 'pt-BR'>({
   globalInjection: true,
   legacy: false,
-  locale: 'en',
-  fallbackLocale: 'en',
+  locale: 'en-Us',
+  fallbackLocale: 'en-US',
   messages: {
-    'en-US': enUS,
-    'pt-BR': ptBR,
+    'en-US': enUS
   },
 });
 
