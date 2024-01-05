@@ -11,7 +11,7 @@ import enUS from './assets/i18n/en-US.json';
 
 type MessageSchema = typeof enUS;
 
-const i18n = createI18n<[MessageSchema], 'en-US' | 'pt-BR'>({
+const i18n = createI18n<[MessageSchema], 'en-US'>({
   globalInjection: true,
   legacy: false,
   locale: 'en-Us',
