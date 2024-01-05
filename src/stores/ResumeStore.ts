@@ -5,8 +5,8 @@ import ptBR from '@/assets/json/resume.pt.json';
 import enUS from '@/assets/json/resume.en.json';
 
 const languages = [
-  { code: 'pt-BR', data: ptBR },
   { code: 'en-US', data: enUS },
+  { code: 'pt-BR', data: ptBR },
 ];
 
 export const useResumeStore = defineStore('resume', {
