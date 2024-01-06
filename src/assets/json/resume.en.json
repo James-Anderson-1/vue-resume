@@ -36,28 +36,33 @@
   "information": [
     {
       "icon": "EnvelopeIcon",
-      "name": "Chrysos mail address",
+      "name": "Chrysos Mail Address",
       "value": "james.anderson@chrysoscorp.com"
     },
     {
       "icon": "EnvelopeIcon",
-      "name": "Personal mail address",
+      "name": "Personal Mail Address",
       "value": "anderson.james_@outlook.com"
+    },
+    {
+      "icon": "DevicePhoneMobileIcon",
+      "name": "Phone Number UK",
+      "value": "+44 7555 929 558"
+    },
+    {
+      "icon": "DevicePhoneMobileIcon",
+      "name": "Phone Number AUS",
+      "value": "+61 428 981 999"
+    },
+    {
+      "icon": "ComputerDesktopIcon",
+      "name": "Work Type",
+      "value": "Fulltime, Liverpool UK"
     },
     {
       "icon": "CakeIcon",
       "name": "24 Years old",
       "value": "30 january 1999"
-    },
-    {
-      "icon": "DevicePhoneMobileIcon",
-      "name": "Phone Number",
-      "value": "+61 428 981 999"
-    },
-    {
-      "icon": "ComputerDesktopIcon",
-      "name": "Work type",
-      "value": "Fulltime - (Deployed in UK)"
     }
   ],
   "skill": [
@@ -71,17 +76,16 @@
     "JavaScript",
     "Vue",
     "CSS",
-    "Tailwindcss",
-    "TypeScript",
-    "Bootstrap",
     "NodeJS",
     "HTML",
     "VS Code",
-    "RPi",
+    "Mathematics",
+    "Physics",
     "Photon Assay",
     "Nuclear Spectroscopy",
     "Product Design",
-    "Distributed Systems"
+    "Distributed Systems",
+    "RPi"
   ],
 
   "language": [
@@ -209,7 +213,7 @@
       "workType": "Weekends",
       "start": "Saturday",
       "end": "Sunday",
-      "description": "Greenpeace is an independent global campaigning network that acts to change attitudes and behaviour, to protect and conserve the environment and to promote peace. It comprises 26 independent national/regional Greenpeace organisations with presence in over 55 countries across Europe, Africa, the Americas, Asia and the Pacific, as well as a coordinating and supporting organisation, Greenpeace International."
+      "description": "I'm a movie lover, cruising through life with a mix of genres. Whether it's comedy, drama, or an unexpected twist, I navigate it all with a laid-back sense of humor. Friends call me a film critic, but I'm just a casual couch potato enjoying every scene. If we get talking I will eventually bring up Letterboxd."
     },
     {
       "job": "Coffee",
@@ -219,7 +223,7 @@
       "workType": "At All Times",
       "start": "Saturday",
       "end": "Sunday",
-      "description": "Greenpeace is an independent global campaigning network that acts to change attitudes and behaviour, to protect and conserve the environment and to promote peace. It comprises 26 independent national/regional Greenpeace organisations with presence in over 55 countries across Europe, Africa, the Americas, Asia and the Pacific, as well as a coordinating and supporting organisation, Greenpeace International."
+      "description": "Coffee, my daily joy in three cups. A cafe's mention beckons me, where each sip becomes a celebration. Rain or shine, I walk to my coffee haven, turning sipping into an extraordinary ritual, one cup at a time."
     }
   ],
   "certificate": [
