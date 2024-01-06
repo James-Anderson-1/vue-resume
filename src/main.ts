@@ -7,17 +7,17 @@ import VueEasyLightbox from 'vue-easy-lightbox';
 
 import './assets/css/main.css';
 
-import enUS from './assets/i18n/en-US.json';
+import enUS from './assets/i18n/en-AU.json';
 
 type MessageSchema = typeof enUS;
 
-const i18n = createI18n<[MessageSchema], 'en-US'>({
+const i18n = createI18n<[MessageSchema], 'en-AU'>({
   globalInjection: true,
   legacy: false,
-  locale: 'en-Us',
-  fallbackLocale: 'en-US',
+  locale: 'en-AU',
+  fallbackLocale: 'en-AU',
   messages: {
-    'en-US': enUS
+    'en-AU': enUS
   },
 });
 

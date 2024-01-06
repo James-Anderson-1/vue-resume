@@ -8,7 +8,7 @@ import { getImagePath } from '@/helpers/Helper';
 import type { Language } from '@/models/Language';
 
 const languages: Language[] = [
-  { name: 'settings.en', code: 'en-US', flag: 'svg/united-states.svg' },
+  { name: 'settings.en', code: 'en-AU', flag: 'svg/australia.svg' },
 ];
 
 const { locale } = useI18n({ useScope: 'global' });
