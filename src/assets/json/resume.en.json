@@ -248,8 +248,8 @@
   ],
   "project": [
     {
-      "name": "Online Resume",
-      "description": "A resume bulit using the Vue JS Framework. Record major milestone and advertise skill set.",
+      "name": "Online Portfolio",
+      "description": "A portfolio bulit using the Vue JS Framework. Record major milestone and advertise skill set.",
       "language": "Vue JS",
       "image": "img/project/vue.png",
       "stars": "~",
