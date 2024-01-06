@@ -99,7 +99,7 @@
   "experience": [
     {
       "job": "UK Secondment",
-      "company": "Chrysos",
+      "company": "Chrysos Corporation",
       "companyLogo": "img/college/chrysos.png",
       "location": "Liverpool, ENG, United Kingdom",
       "workType": "Fulltime",
@@ -109,9 +109,9 @@
     },
     {
       "job": "Front End Development",
-      "company": "self taught",
+      "company": "Self Taught",
       "companyLogo": "img/profile/head-shot-2.png",
-      "location": "GitHub, JavaScript, Vue",
+      "location": "GitHub, JavaScript, Node",
       "workType": "Background",
       "start": "Jan 2022",
       "end": "Dec 2023",
@@ -119,7 +119,7 @@
     },
     {
       "job": "Field Study: Mini-Jar & VTG",
-      "company": "Chrysos",
+      "company": "Chrysos Corporation",
       "companyLogo": "img/college/chrysos.png",
       "location": "Bendigo, VIC, Australia",
       "workType": "Fulltime",
@@ -129,43 +129,43 @@
     },
     {
       "job": "Ravenswood Installation",
-      "company": "Chrysos",
+      "company": "Chrysos Corporation",
       "companyLogo": "img/college/chrysos.png",
       "location": "Ravenswood, QLD, Australia",
       "workType": "Fulltime",
       "start": "Sep 2022",
       "end": "Oct 2022",
-      "description": "Traveling to Ravenswood, Queensland, located just outside Townsville, I led the Physics team in overseeing the commissioning of the thirteenth photon assay unit. This represented a significant milestone in my career, as I was tasked with deploying the first photon assay unit to a mine site independently. During my time on-site, I additionally implemented an environmental monitoring enclosure of my own design and seamlessly integrated it with the existing photon assay product."
+      "description": "Traveling to Ravenswood, Queensland, located just outside Townsville, I led the Physics team in commissioning the thirteenth photon assay unit. This represented a significant milestone in my career, as I was tasked with deploying the first ever photon assay unit to a mine site independently. During my time on-site, I also implemented an environmental monitoring enclosure of my own design and seamlessly integrated it with the existing photon assay product."
     },
     {
-      "job": "Kalgoullie Installation",
-      "company": "Chrysos",
+      "job": "Kalgoorlie Installation",
+      "company": "Chrysos Corporation",
       "companyLogo": "img/college/chrysos.png",
       "location": "Kalgoorlie - Boulder, WA, Australia",
       "workType": "Fulltime",
       "start": "Sep 2021",
       "end": "Oct 2021",
-      "description": "My first work trip brought me to Kalgoorlie in Western Australia, where I marveled at the Kalgoorlie super pit. Guided by a colleague, we led the physics team in installing a tenth photon assay unit, providing a hands-on and rewarding experience. Interestingly, my grandfather hails from this mining town, imbuing the journey with a sense of family heritage."
+      "description": "My first work trip brought me to Kalgoorlie in Western Australia, where I marveled at the Kalgoorlie super pit. Guided by a colleague, we led the physics team in installing the tenth photon assay unit. Interestingly, my grandfather hails from this mining town, imbuing the journey with a sense of family heritage."
     },
     {
       "job": "Summer Reaserch Scholarship",
-      "company": "Chrysos",
+      "company": "The University of Adelaide",
       "companyLogo": "img/college/adelaide.png",
       "location": "Adelaide, SA, Australia",
       "workType": "Fulltime",
       "start": "Sep 2021",
       "end": "Oct 2021",
-      "description": "Supported new mini-jars and vertical transmission a;lsdjfk aslkdjfa lakdsj alkd a;lkdjf ;laksdj alskdjf slkdjf"
+      "description": "I was awaraded a reaserch scholarship with the Institute for Photonics and Advanced Sensing (IPAS) at the University of Adelaide. On this scholarship I developed a high temperature sensor, up to 1300 degrees, utilising refactive index shifts and fast fourir transform analysis. "
     },
     {
       "job": "Private Tutor",
-      "company": "self employeed",
+      "company": "Self Employeed",
       "companyLogo": "img/profile/head-shot-2.png",
       "location": "Adelaide, SA, Australia",
       "workType": "Part Time",
       "start": "Sep 2019",
       "end": "Oct 2020",
-      "description": "Supported new mini-jars and vertical transmission a;lsdjfk aslkdjfa lakdsj alkd a;lkdjf ;laksdj alskdjf slkdjf"
+      "description": "Leaveraging my affinity for education I began tutoring in mathematics, physics and chemistry. Taking on four students at range of year levels I was proud to witness their acedmaic growth."
     },
     {
       "job": "Warehouse - Fresh Goods",
@@ -175,7 +175,7 @@
       "workType": "Part Time",
       "start": "Sep 2019",
       "end": "Oct 2020",
-      "description": "Supported new mini-jars and vertical transmission a;lsdjfk aslkdjfa lakdsj alkd a;lkdjf ;laksdj alskdjf slkdjf"
+      "description": "Operating through midnight and early morning shifts I supported the in and out flow of fresh goods."
     }
   ],
   "education": [
@@ -219,7 +219,7 @@
       "job": "Coffee",
       "company": "Big Fan",
       "companyLogo": "img/company/coffee.png",
-      "location": "Cinema",
+      "location": "Coffee House",
       "workType": "At All Times",
       "start": "Saturday",
       "end": "Sunday",
