@@ -2,18 +2,6 @@
     <img src="preview/cover-screen-shot.png">
 </p>
 
-<p align="center">
-    <a href="https://github.com/luciano-work/vue-resume/stargazers">
-        <img height= "24" src="https://img.shields.io/github/stars/luciano-work/vue-resume?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
-    </a>
-    <a href="https://github.com/luciano-work/vue-resume/issues">
-        <img height= "24" src="https://img.shields.io/github/issues/luciano-work/vue-resume?colorA=1e1e28&colorB=f7be95&style=for-the-badge">
-    </a>
-    <a href="https://github.com/luciano-work/vue-resume/contributors">
-        <img height= "24" src="https://img.shields.io/github/contributors/luciano-work/vue-resume?colorA=1e1e28&colorB=b1e1a6&style=for-the-badge">
-    </a>
-</p>
-
 #### About
 
 This is a template for you if you want to put your resume online to share it easily with future employers or clients!
