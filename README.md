@@ -2,15 +2,6 @@
     <img src="preview/cover-screen-shot.png">
 </p>
 
-#### About
-
-This is a template for you if you want to put your resume online to share it easily with future employers or clients!
-
-See [Demo](https://vue-resume-six.vercel.app) page.
-
-
-#### Versions
-<a href="https://vuejs.org"><img height= "24" src= "https://img.shields.io/badge/Vue.js-059669?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"></a> <a href="https://tailwindcss.com"><img height= "24" src= "https://img.shields.io/badge/Tailwind 3-0ea5e9?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
 
 #### Commands
 
