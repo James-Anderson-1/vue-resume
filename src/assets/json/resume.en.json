@@ -102,7 +102,7 @@
       "company": "Chrysos Corporation",
       "companyLogo": "img/college/chrysos.png",
       "location": "Liverpool, ENG, United Kingdom",
-      "workType": "Fulltime",
+      "workType": "Full Time",
       "start": "Dec 2023",
       "end": "Current",
       "description": "I am currently installing our inaugural Alfred H. Knight unit in Liverpool, England. With the AHK1-MAX32 installation, I am committed to delivering the recently developed mini-jar precision assay service for AHK. Being on-site for the first six months is crucial for the physics team, as it helps facilitate the introduction of this cutting-edge technology and advance the subsequent projects with AHK."
@@ -113,7 +113,7 @@
       "companyLogo": "img/profile/head-shot-2.png",
       "location": "GitHub, JavaScript, Node",
       "workType": "Background",
-      "start": "Jan 2022",
+      "start": "Jan 2023",
       "end": "Dec 2023",
       "description": "My self-guided front-end journey involves hands-on exploration of JavaScript, React, and Vue. I experiment with CSS, utilizing Flexbox and Grid layouts, and dive into creative light-dark UI designs. Netlify streamlines hosting, simplifying deployment as I refine my approach to crafting visually engaging interfaces, showcasing a commitment to staying current with evolving web technologies and a curiosity-driven design sensibility."
     },
@@ -122,7 +122,7 @@
       "company": "Chrysos Corporation",
       "companyLogo": "img/college/chrysos.png",
       "location": "Bendigo, VIC, Australia",
-      "workType": "Fulltime",
+      "workType": "Full Time",
       "start": "Jun 2023",
       "end": "Jul 2023",
       "description": "Led a month-long deployment in Bendigo, where I conducted a mini jar photon assay feasibility study and collaborated with Alfred H. Knight to streamline processing for smaller assay samples. Oversaw the successful deployment of the first external vertical transmission gauge (VTG) for photon assay."
@@ -132,7 +132,7 @@
       "company": "Chrysos Corporation",
       "companyLogo": "img/college/chrysos.png",
       "location": "Ravenswood, QLD, Australia",
-      "workType": "Fulltime",
+      "workType": "Full Time",
       "start": "Sep 2022",
       "end": "Oct 2022",
       "description": "Traveling to Ravenswood, Queensland, located just outside Townsville, I led the Physics team in commissioning the thirteenth photon assay unit. This represented a significant milestone in my career, as I was tasked with deploying the first ever photon assay unit to a mine site independently. During my time on-site, I also implemented an environmental monitoring enclosure of my own design and seamlessly integrated it with the existing photon assay product."
@@ -142,20 +142,40 @@
       "company": "Chrysos Corporation",
       "companyLogo": "img/college/chrysos.png",
       "location": "Kalgoorlie - Boulder, WA, Australia",
-      "workType": "Fulltime",
-      "start": "Sep 2021",
-      "end": "Oct 2021",
+      "workType": "Full Time",
+      "start": "Apr 2022",
+      "end": "May 2022",
       "description": "My first work trip brought me to Kalgoorlie in Western Australia, where I marvelled at the Kalgoorlie super pit. Guided by a colleague, we led the physics team in installing the tenth photon assay unit. Interestingly, my grandfather hails from this mining town, imbuing the journey with a sense of family heritage."
+    },
+    {
+      "job": "Full Time Employment",
+      "company": "Chrysos Corporation",
+      "companyLogo": "img/college/chrysos.png",
+      "location": "Adelaide, SA, Australia",
+      "workType": "Full Time",
+      "start": "Dec 2021",
+      "end": "Currnet",
+      "description": "Offered a fulltime postion with Chrysos as a physicists."
     },
     {
       "job": "Summer Reaserch Scholarship",
       "company": "The University of Adelaide",
       "companyLogo": "img/college/adelaide.png",
       "location": "Adelaide, SA, Australia",
-      "workType": "Fulltime",
-      "start": "Sep 2021",
-      "end": "Oct 2021",
+      "workType": "Part Time",
+      "start": "Jan 2021",
+      "end": "Jun 2021",
       "description": "I was awarded a research scholarship with the Institute for Photonics and Advanced Sensing (IPAS) at the University of Adelaide. On this scholarship I developed a high temperature sensor, up to 1300 degrees, utilising refractive index shifts and fast Fourier transform (FFT) analysis."
+    },
+    {
+      "job": "Casual Employment",
+      "company": "The University of Adelaide",
+      "companyLogo": "img/college/chrysos.png",
+      "location": "Adelaide, SA, Australia",
+      "workType": "Part Time",
+      "start": "Nov 2020",
+      "end": "Nov 2021",
+      "description": "Offered casual employemnt with Chrysos whilst I finished my tertiary studies."
     },
     {
       "job": "Private Tutor",
@@ -163,7 +183,7 @@
       "companyLogo": "img/profile/head-shot-2.png",
       "location": "Adelaide, SA, Australia",
       "workType": "Part Time",
-      "start": "Sep 2019",
+      "start": "Dec 2019",
       "end": "Oct 2020",
       "description": "Leveraging my affinity for education I began tutoring in mathematics, physics, and chemistry. Taking on four students at range of year levels I was proud to witness their academic growth."
     },
@@ -174,25 +194,25 @@
       "location": "Adelaide, SA, Australia",
       "workType": "Part Time",
       "start": "Sep 2019",
-      "end": "Oct 2020",
+      "end": "Dec 2019",
       "description": "Operating through midnight and early morning shifts I supported the in and out flow of fresh goods."
     }
   ],
   "education": [
-    {
-      "college": "Chrysos Corporation Paid Internship",
-      "collegeLogo": "img/college/chrysos.png",
-      "course": "Categorisations of Deadtime using High Purity Germanium Detectors and CAEN Multichannel Analysers",
-      "start": "2021",
-      "end": "2021",
-      "url": "https://www.adelaide.edu.au/"
-    },
     {
       "college": "The University of Adelaide",
       "collegeLogo": "img/college/adelaide.png",
       "course": "Advance Science with majors in Experimental and Theoretical Physics",
       "start": "2018",
       "end": "2021",
+      "url": "https://www.adelaide.edu.au/"
+    },
+    {
+      "college": "Chrysos Corporation Internship",
+      "collegeLogo": "img/college/chrysos.png",
+      "course": "Categorisations of Deadtime using High Purity Germanium Detectors and CAEN Multichannel Analysers",
+      "start": "Jun 2020",
+      "end": "Nov 2020",
       "url": "https://www.adelaide.edu.au/"
     },
     {
