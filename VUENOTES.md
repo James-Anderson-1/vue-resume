@@ -1,3 +1,5 @@
-# Notes on the Vue JS Frame WOrk
+# Notes on the Vue JS Frame Work
 
-### Always Read the Documentation: https://vuejs.org/
+#### Main project README: [README](README.md)
+
+#### Always Read the Documentation: https://vuejs.org/
