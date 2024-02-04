@@ -39,5 +39,6 @@ The Tailwind name and logos are trademarks of Tailwind Labs Inc.
 The Vue name and logos are trademarks of Vue.
 
 
-[VUENOTES.md](VUENOTES)
+[VUENOTES](VUENOTES.md)
+
 
