@@ -1,4 +1,4 @@
-# Notes on the Vue JS Frame Work
+# Notes on the Vue JS Framework
 
 #### Main project README: [README](README.md)
 
