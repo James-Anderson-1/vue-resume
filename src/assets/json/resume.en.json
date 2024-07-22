@@ -57,7 +57,7 @@
     {
       "icon": "ComputerDesktopIcon",
       "name": "Work Type",
-      "value": "Fulltime, Liverpool UK"
+      "value": "Fulltime, Adelaide AUS"
     },
     {
       "icon": "CakeIcon",
@@ -100,12 +100,12 @@
     {
       "job": "UK Secondment",
       "company": "Chrysos Corporation",
-      "companyLogo": "img/college/chrysos.png",
+      "companyLogo": "img/college/ahk.png",
       "location": "Liverpool, ENG, United Kingdom",
       "workType": "Full Time",
       "start": "Dec 2023",
-      "end": "Current",
-      "description": "I am currently installing our inaugural Alfred H. Knight unit in Liverpool, England. With the AHK1-MAX32 installation, I am committed to delivering the recently developed mini-jar precision assay service for AHK. Being on-site for the first six months is crucial for the physics team, as it helps facilitate the introduction of this cutting-edge technology and advance the subsequent projects with AHK."
+      "end": "Jul 2024",
+      "description": "I facilitated an inaugural photon assay unit for Alfred H. Knight in Liverpool, England. With the AHK1 installation, I committed to delivering the recently developed mini-jar precision assay service for AHK. Being on-site for the first six months was crucial for the team, it helped cement the introduction of this cutting-edge technology and advanced the logistics and operations of AHK."
     },
     {
       "job": "Front End Development",
